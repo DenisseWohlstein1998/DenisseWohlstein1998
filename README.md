@@ -1,4 +1,4 @@
-#<h1 align="center">Hi 👋, I'm Denisse Wohlstein</h1>
+<h1 align="center">Hi 👋, I'm Denisse Wohlstein</h1>
 <h3 align="center">A passionate Business Analyst from Colombia Living in L.A.</h3>
 
 - 🔭 I’m currently working on [Casual inference](https://github.com/juanpi19/project-v1)
