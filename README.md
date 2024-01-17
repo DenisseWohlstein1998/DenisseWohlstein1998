@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **denissew98@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/denissewohlstein/](https://www.linkedin.com/in/denissewohlstein/)
+- 📄 Know about my experiences [https://resumedenissewohlstein.tiiny.site](https://resumedenissewohlstein.tiiny.site)
 
 - ⚡ Fun fact **I'm also an actress!**
 
